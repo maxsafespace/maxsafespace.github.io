@@ -67,6 +67,14 @@
    margin-top: -5px;
    margin-left: -5px;
    z-index: 5;
+    
+  .box{
+    float:left;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
+}
 }
  .snake-line {
    height: 1px;
